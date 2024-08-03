@@ -1,0 +1,27 @@
+2024-08-03T07:21:19.017Z : socket: client connected
+2024-08-03T07:21:19.938Z : deepgram: connected
+2024-08-03T07:21:28.681Z : deepgram_spoken: Hello?
+2024-08-03T07:21:29.715Z : groq response: Hi! It's nice to meet you. How's your day going so far?
+2024-08-03T07:26:54.676Z : socket: client connected
+2024-08-03T07:26:55.626Z : deepgram: connected
+2024-08-03T07:27:01.612Z : deepgram_spoken: Hello? What can I do?
+2024-08-03T07:27:03.022Z : groq response: Hello! I'm here to help you with anything you need. How's your day going so far? Do you have something specific on your mind that you'd like to talk about or ask for help with? I'm all ears!
+2024-08-03T07:30:13.704Z : socket: client connected
+2024-08-03T07:30:14.580Z : deepgram: connected
+2024-08-03T07:30:14.925Z : socket: client disconnected
+2024-08-03T07:30:14.970Z : socket: client connected
+2024-08-03T07:30:15.712Z : deepgram: connected
+2024-08-03T07:30:27.455Z : deepgram_spoken: Hello. What can I do?
+2024-08-03T07:30:28.222Z : groq response: Hello! I'm happy to help. It sounds like you're feeling a bit unsure about what to do.
+
+Can you tell me a bit more about what's on your mind? Are you facing a specific problem or decision, or do you just need some general guidance or advice? I'm here to listen and help in any way I can!
+2024-08-03T07:30:46.848Z : deepgram_spoken: Hello?
+2024-08-03T07:30:47.538Z : groq response: Hi again! It seems like we got disconnected earlier. Don't worry, I'm here to help. Is there something on your mind that you'd like to talk about, or would you like me to suggest some fun conversation topics? I'm all ears!
+2024-08-03T07:32:46.216Z : socket: client connected
+2024-08-03T07:32:47.106Z : deepgram: connected
+2024-08-03T07:33:05.171Z : socket: client disconnected
+2024-08-03T07:33:05.219Z : socket: client connected
+2024-08-03T07:33:06.139Z : deepgram: connected
+2024-08-03T07:33:15.434Z : socket: client disconnected
+2024-08-03T07:33:22.481Z : socket: client connected
+2024-08-03T07:33:23.400Z : deepgram: connected
